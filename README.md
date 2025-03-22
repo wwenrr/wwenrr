@@ -22,8 +22,9 @@
 #### **💻 Front-End**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055ff?style=flat&logo=framer)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
 #### **⚙️ Backend & DevOps**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)  
