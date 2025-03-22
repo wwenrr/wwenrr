@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlignY=40&desc=Glad%20to%20see%20you%20here&descAlignY=60&descAlign=50"/>
 </p>
 
-<h3 align="center">🚀 Front-End Developer | DevOps Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourname" target="_blank">
