@@ -9,9 +9,13 @@ function formatStars(stars) {
   return new Intl.NumberFormat('en-US').format(stars);
 }
 
-function buildSection({ username, prs }) {
-  const nowUtc = new Date().toISOString().replace('T', ' ').replace(/\..+$/, ' UTC');
+function sanitizeTableCell(value, fallback = '-') {
+  if (value === null || value === undefined) return fallback;
+  const text = String(value).replace(/\r?\n/g, ' ').replace(/\|/g, '\\|').trim();
+  return text.length > 0 ? text : fallback;
+}
 
+function buildSection({ username, prs }) {
   const totalOpen = prs.length;
   const draftCount = prs.filter((pr) => pr.isDraft).length;
   const uniqueRepos = new Set(prs.map((pr) => pr.repository.nameWithOwner)).size;
@@ -90,10 +94,11 @@ function buildSection({ username, prs }) {
     lines.push('| Repo | PR | Title | Date |');
     lines.push('|---|---|---|---|');
     for (const pr of recentOpen) {
-      const repoShort = pr.repository.nameWithOwner.split('/')[1];
       const draftLabel = pr.isDraft ? ' `[DRAFT]`' : '';
+      const repo = sanitizeTableCell(pr.repository.nameWithOwner);
+      const title = sanitizeTableCell(pr.title, '—');
       lines.push(
-        `| ${pr.repository.nameWithOwner} | [#${pr.number}](${pr.url}) | ${pr.title}${draftLabel} | ${formatDate(pr.updatedAt)} |`
+        `| ${repo} | [#${pr.number}](${pr.url}) | ${title}${draftLabel} | ${formatDate(pr.updatedAt)} |`
       );
     }
   }
