@@ -144,23 +144,26 @@ Build now : Production-grade internal tooling and workflows
 <br />
 
 <div align="center">
-  <p><sub>Overall stats across all public and private repositories</sub></p>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <h4>Overview</h4>
+  <p><sub>Stats across all public and private repositories, including all commits</sub></p>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="stats" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 <br />
 
 <div align="center">
-  <p><sub>Contribution streak — consistency over time</sub></p>
-  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true" alt="streak" />
+  <h4>Streak</h4>
+  <p><sub>Consecutive contribution days — measures consistency and discipline</sub></p>
+  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <p><sub>Commit activity over the past year</sub></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
+  <h4>Activity</h4>
+  <p><sub>Commit frequency over the past 12 months</sub></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity" />
 </div>
 
 <br />
