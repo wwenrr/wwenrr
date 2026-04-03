@@ -1,18 +1,5 @@
 <div align="center">
-  <img src="./assets/anime-header.jpg" width="100%" alt="anime background banner" />
-  <sub>Background source: Dreamer-Paul/Anime-Wallpaper</sub>
-</div>
-
-<br />
-
-<div align="center">
-  <h1>Khang Minh · wwenrr</h1>
-  <p><b>Backend Engineer · Automation Builder · Production First</b></p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=wwenrr&color=2563eb&style=for-the-badge" alt="views" />
-    <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0ea5e9?style=for-the-badge" alt="timezone" />
-    <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh-0f766e?style=for-the-badge" alt="location" />
-  </p>
+  <img src="./assets/banner.svg" width="100%" alt="Khang Minh banner" />
 </div>
 
 <br />
