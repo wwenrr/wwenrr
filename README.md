@@ -158,32 +158,22 @@ Build now : Production-grade internal tooling and workflows
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <p><sub>Overall stats across all public and private repositories</sub></p>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wwenrr&theme=tokyonight" alt="profile details" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wwenrr&theme=tokyonight&utcOffset=7" alt="productive time" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wwenrr&theme=tokyonight" alt="repos per lang" />
-</div>
-
-<br />
-
-<div align="center">
+  <p><sub>Contribution streak — consistency over time</sub></p>
   <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <br />
 
 <div align="center">
+  <p><sub>Commit activity over the past year</sub></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
 </div>
 
