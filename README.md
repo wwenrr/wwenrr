@@ -68,6 +68,7 @@
 
 <br />
 
+<!-- OPEN_SOURCE_OPEN_PRS:START -->
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20Merged%20PRs-39-1d4ed8?style=flat-square" />
   <img src="https://img.shields.io/badge/2026-8%20PRs-6366f1?style=flat-square" />
@@ -109,6 +110,7 @@
 <br />
 
 ---
+<!-- OPEN_SOURCE_OPEN_PRS:END -->
 
 <h2 align="center">Tech Stack</h2>
 
