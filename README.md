@@ -1,54 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=6FA8FF&center=true&vCenter=true&width=700&lines=Khang+Minh+%7C+Backend+Engineer;Automation+Builder+%7C+Production+First;Open+Source+Contributions+%7C+High+Signal+Only)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Khang%20Minh%20%7C%20wwenrr&fontSize=42&color=0:0f172a,100:2563eb&stroke=ffffff&strokeWidth=1" alt="header" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwenrr&color=4F8CC9&style=for-the-badge" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Backend+Engineer;Automation+Builder;Production+First+Mindset" alt="typing" />
+  </a>
 </p>
 
-<p>
-<img align="left" src="https://avatars.githubusercontent.com/u/100760499?v=4" width="220" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wwenrr&color=2563eb&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0ea5e9?style=for-the-badge" alt="timezone" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh-0f766e?style=for-the-badge" alt="location" />
+</p>
+
+<table>
+<tr>
+<td width="220" valign="top">
+  <img src="https://avatars.githubusercontent.com/u/100760499?v=4" width="200" alt="avatar" />
+</td>
+<td valign="top">
 
 ```text
 wwenrr@github
 -------------------------
-Role: Backend Engineer
-Focus: Automation, reliability, delivery speed
-Location: Ho Chi Minh City
-Timezone: UTC+7
-Core stack: TypeScript, Ruby, C#, PostgreSQL, Redis
-Now building: production-grade internal tooling and workflows
+Role      : Backend Engineer
+Focus     : Automation, reliability, delivery speed
+Stack     : TypeScript, Ruby, C#, PostgreSQL, Redis
+Build now : Production-grade internal tooling and workflows
 ```
-</p>
 
-<br>
-<br>
-<br>
+</td>
+</tr>
+</table>
 
-<h2 align="center">Engineering Focus</h2>
+<h2 align="center">Engineering Board</h2>
 
-- Build backend features for business-critical workflows.
-- Design and run automation pipelines for operations.
-- Improve CI and release quality for safer deployments.
-- Ship practical UI and theme updates when impact is clear.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<h2 align="center">Open Source Contributions</h2>
+### What I Build
+- Backend features for business-critical workflows.
+- Automation pipelines for operations and data quality.
+- CI and release improvements for safer deployments.
+- Practical UI and theme updates with measurable impact.
+
+</td>
+<td valign="top" width="50%">
+
+### Work Style
+- Prefer clear ownership and observable outputs.
+- Keep changes small, testable, and easy to review.
+- Bias toward reliability over novelty.
+- Optimize for team velocity and maintainability.
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Open Source Contribution Board</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-4-2563EB?style=for-the-badge" alt="Merged PRs" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Repos-2-0891B2?style=for-the-badge" alt="Open Source Repos" />
-  <img src="https://img.shields.io/badge/Minimum%20Repo%20Stars-1000-F59E0B?style=for-the-badge" alt="Minimum Repo Stars" />
-  <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-7C3AED?style=for-the-badge" alt="Public OSS PRs" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-4-1d4ed8?style=for-the-badge" alt="Merged PRs" />
+  <img src="https://img.shields.io/badge/High--Star%20Repos-2-0284c7?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/Min%20Stars-1000-f59e0b?style=for-the-badge" alt="Min Stars" />
+  <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-7c3aed?style=for-the-badge" alt="Public OSS PRs" />
 </p>
 
-<p align="center"><code>Snapshot date: 2026-04-03 UTC</code></p>
-<p align="center"><code>High-star split: 2026: 4</code></p>
-<p align="center"><code>All public OSS split: 2026: 5 | 2025: 11 | 2024: 20</code></p>
+<p align="center"><code>Snapshot: 2026-04-03 UTC</code></p>
+<p align="center"><code>Filter: public repos only, exclude wwenrr/*, stars >= 1000</code></p>
 
 ### Featured Repositories
 
-| Repository | Stars | Merged PRs |
-| --- | ---: | ---: |
-| [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,413 | 3 |
-| [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 |
+| Repository | Stars | Merged PRs | Last Merged |
+| --- | ---: | ---: | ---: |
+| [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,442 | 3 | 2026-04-02 |
+| [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 | 2026-04-01 |
 
 ### Recent Merged PRs
 
@@ -57,61 +85,63 @@ Now building: production-grade internal tooling and workflows
 - [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) - fix pg: align SearchByEmbedding SQL placeholders with scope args - 2026-04-01
 - [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) - fix: clarify non interactive guidance for omx agents remove - 2026-04-01
 
+### Public OSS Year Split
+
+| Year | Merged PRs |
+| --- | ---: |
+| 2026 | 5 |
+| 2025 | 11 |
+| 2024 | 20 |
+
 <h2 align="center">Tech Stack</h2>
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Backend and Data
+### Backend and Infra
 <p>
-  <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Rails" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### Delivery and Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Shopify%20Theme-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
-
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">Analytics</h2>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wwenrr&theme=tokyonight" alt="GitHub stats card" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wwenrr&theme=tokyonight" alt="Top languages card" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wwenrr&theme=tokyonight" alt="stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wwenrr&theme=tokyonight" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
 </div>
 
 <h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="mailto:khang.tran@hcmut.edu.vn">
-    <img src="https://img.shields.io/badge/Email-khang.tran@hcmut.edu.vn-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=e9f2ff" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-khang.tran@hcmut.edu.vn-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=e2e8f0" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/khang-minh-082b79317/">
-    <img src="https://img.shields.io/badge/LinkedIn-khang--minh-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=e9f2ff" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-khang--minh-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=e2e8f0" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wwenrr">
-    <img src="https://img.shields.io/badge/GitHub-wwenrr-white?style=for-the-badge&logo=github&logoColor=black&labelColor=e9f2ff" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-wwenrr-white?style=for-the-badge&logo=github&logoColor=black&labelColor=e2e8f0" alt="GitHub" />
   </a>
 </p>
