@@ -26,16 +26,43 @@ Build now : Production-grade internal tooling and workflows
 
 <br />
 
-<div align="center">
+<table align="center" width="90%">
+<tr>
+<td valign="top" width="33%">
 
-| What I Build | Work Style |
-|:---|:---|
-| Backend features for business-critical workflows | Clear ownership and observable outputs |
-| Automation pipelines for operations and data quality | Small, testable, easy-to-review changes |
-| CI and release improvements for safer deployments | Bias toward reliability over novelty |
-| Practical UI and theme updates with measurable impact | Optimize for team velocity and maintainability |
+<h4>What I Build</h4>
 
-</div>
+- Business-critical backend features and APIs
+- Automation pipelines for ops and data quality
+- CI/CD and release tooling for safer deployments
+- Internal developer tooling and workflow systems
+- Practical UI and theme updates with measurable impact
+
+</td>
+<td valign="top" width="33%">
+
+<h4>How I Work</h4>
+
+- Clear ownership, observable and verifiable outputs
+- Small, testable, easy-to-review changes
+- Bias toward reliability and correctness over novelty
+- Optimize for team velocity and long-term maintainability
+- Document decisions, not just code
+
+</td>
+<td valign="top" width="33%">
+
+<h4>Current Focus</h4>
+
+- Production-grade internal tooling
+- Workflow automation with n8n and custom scripts
+- OSS contributions to high-impact projects
+- Rails and TypeScript backend systems
+- Improving deployment and observability pipelines
+
+</td>
+</tr>
+</table>
 
 <br />
 
