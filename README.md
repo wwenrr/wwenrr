@@ -75,8 +75,8 @@
   <img src="https://img.shields.io/badge/Repos-21-0ea5e9?style=for-the-badge" alt="Repos" />
 </p>
 
-<p align="center"><code>Snapshot: 2026-04-03 10:43:27 UTC</code></p>
-<p align="center"><code>Filter: is:open, public repos only, exclude wwenrr/*, archived:false</code></p>
+<p align="center"><code>Snapshot: 2026-04-03 10:45:06 UTC</code></p>
+<p align="center"><code>Filter: is:open, public repos only, exclude wwenrr/*, archived:false, stars > 3</code></p>
 
 ### Active Repositories (Open PRs)
 
@@ -85,12 +85,12 @@
 | [`rails/rails`](https://github.com/rails/rails) | 58,319 | 5 | 2026-04-03 |
 | [`sinatra/sinatra`](https://github.com/sinatra/sinatra) | 12,420 | 4 | 2026-04-01 |
 | [`vercel/next.js`](https://github.com/vercel/next.js) | 138,596 | 2 | 2026-04-03 |
-| [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | 45,570 | 2 | 2026-04-02 |
+| [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | 45,573 | 2 | 2026-04-02 |
 | [`abhigyanpatwari/GitNexus`](https://github.com/abhigyanpatwari/GitNexus) | 21,397 | 2 | 2026-04-01 |
 | [`NgoQuocViet2001/codex-keyring`](https://github.com/NgoQuocViet2001/codex-keyring) | 4 | 1 | 2026-04-03 |
 | [`Significant-Gravitas/AutoGPT`](https://github.com/Significant-Gravitas/AutoGPT) | 183,098 | 1 | 2026-04-03 |
 | [`nestjs/nest-cli`](https://github.com/nestjs/nest-cli) | 2,158 | 1 | 2026-04-03 |
-| [`Yeachan-Heo/oh-my-claudecode`](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,701 | 1 | 2026-04-02 |
+| [`Yeachan-Heo/oh-my-claudecode`](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,702 | 1 | 2026-04-02 |
 | [`Anduin2017/HowToCook`](https://github.com/Anduin2017/HowToCook) | 99,149 | 1 | 2026-04-01 |
 
 ### Recent Open PRs
