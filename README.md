@@ -31,55 +31,28 @@
 - Improve CI/CD and local developer workflow for safer, faster releases.
 - Deliver iterative UI/theme improvements where it directly impacts conversion and usability.
 
-## Merged Contributions (Verified)
+## Open Source Contributions (High-Star Repos Only)
 `Snapshot date: 2026-04-03 (UTC) | Source: GitHub GraphQL merged PR history`
 
+`Rules applied: public repos only, exclude personal repos (wwenrr/*), prioritize high-star projects.`
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-158-2563EB?style=for-the-badge" alt="Merged PRs" />
-  <img src="https://img.shields.io/badge/Repositories-14-0891B2?style=for-the-badge" alt="Repositories" />
-  <img src="https://img.shields.io/badge/2026-65-16A34A?style=for-the-badge" alt="2026" />
-  <img src="https://img.shields.io/badge/2025-70-F59E0B?style=for-the-badge" alt="2025" />
-  <img src="https://img.shields.io/badge/2024-23-DC2626?style=for-the-badge" alt="2024" />
+  <img src="https://img.shields.io/badge/Merged%20PRs%20(Filtered)-4-2563EB?style=for-the-badge" alt="Merged PRs Filtered" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Repos-2-0891B2?style=for-the-badge" alt="Open Source Repos" />
+  <img src="https://img.shields.io/badge/Minimum%20Repo%20Stars-1000-F59E0B?style=for-the-badge" alt="Minimum Repo Stars" />
 </div>
 
-### Contribution Distribution by Repository
-| Repository | Merged PRs | Share |
+### Featured Repositories
+| Repository | Stars | Merged PRs |
 | --- | ---: | ---: |
-| `Dogo-Corp/internal` | 57 | 36% |
-| `Dogo-Corp/jf-theme` | 27 | 17% |
-| `Dogo-Corp/dogo-extension` | 18 | 11% |
-| `dath-241/coin-price-be-java` | 16 | 10% |
-| `Dogo-Corp/jwl-theme` | 12 | 7% |
-| `fortress-of-the-fallen/back-end` | 5 | 3% |
-| `vietlecd/Ecommerce_Website` | 5 | 3% |
-| `vietlecd/Nhom_3` | 5 | 3% |
-| `Dogo-Corp/dogo-spider` | 3 | 1% |
-| `Yeachan-Heo/oh-my-codex` | 3 | 1% |
-| `wwenrr/cong-nghe-phan-mem-hk241` | 3 | 1% |
-| `wwenrr/streamza` | 2 | 1% |
-| `fortress-of-the-fallen/infra-email-reporter` | 1 | 0% |
-| `nextlevelbuilder/goclaw` | 1 | 0% |
+| [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,404 | 3 |
+| [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 |
 
-<details>
-<summary><strong>Recent merged PRs (latest 15)</strong></summary>
-
-- [Dogo-Corp/jwl-theme #95](https://github.com/Dogo-Corp/jwl-theme/pull/95) — Fix blog FAQ detection to require H2 FAQs heading (`2026-04-03`)
-- [Dogo-Corp/jwl-theme #94](https://github.com/Dogo-Corp/jwl-theme/pull/94) — Improve blog table borders (`2026-04-03`)
+### Recent Merged PRs (Filtered)
 - [Yeachan-Heo/oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) — fix(test): make test:node cross-platform (issue #1121) (`2026-04-02`)
-- [Dogo-Corp/dogo-spider #3](https://github.com/Dogo-Corp/dogo-spider/pull/3) — prod: kill old port/worker processes before startup (`2026-04-02`)
-- [Dogo-Corp/dogo-spider #2](https://github.com/Dogo-Corp/dogo-spider/pull/2) — feat: enforce explicit Amazon JP add-to-cart selection and update business docs (`2026-04-02`)
 - [Yeachan-Heo/oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) — fix(team): use manifest.v2 as canonical team cwd metadata source (`2026-04-01`)
-- [vietlecd/Nhom_3 #14](https://github.com/vietlecd/Nhom_3/pull/14) — clean project (`2026-04-01`)
 - [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) — fix(pg): align SearchByEmbedding SQL placeholders with scope args (`2026-04-01`)
 - [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) — fix: clarify non-interactive guidance for omx agents remove (`2026-04-01`)
-- [Dogo-Corp/dogo-spider #1](https://github.com/Dogo-Corp/dogo-spider/pull/1) — feat: refactor Amazon JP add-to-cart connection settings (`2026-03-29`)
-- [Dogo-Corp/internal #1123](https://github.com/Dogo-Corp/internal/pull/1123) — chore: enhance CI and Dockerfile for improved organization and performance (`2026-03-18`)
-- [Dogo-Corp/internal #1116](https://github.com/Dogo-Corp/internal/pull/1116) — feat: Implement product description enrichment and validation services (`2026-03-12`)
-- [Dogo-Corp/internal #1090](https://github.com/Dogo-Corp/internal/pull/1090) — feat: implement product description enrichment and validation services (`2026-03-10`)
-- [Dogo-Corp/dogo-extension #41](https://github.com/Dogo-Corp/dogo-extension/pull/41) — feat: CSV export with transaction completion time and code structure (`2026-03-04`)
-- [Dogo-Corp/dogo-extension #40](https://github.com/Dogo-Corp/dogo-extension/pull/40) — enhance: product extraction logic in productExtractor.js (`2026-03-03`)
-
-</details>
 
 ## Stack
 ### Languages
