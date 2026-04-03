@@ -32,23 +32,26 @@
 - Deliver iterative UI/theme improvements where it directly impacts conversion and usability.
 
 ## Open Source Contributions (High-Star Repos Only)
-`Snapshot date: 2026-04-03 (UTC) | Source: GitHub GraphQL merged PR history`
-
-`Rules applied: public repos only, exclude personal repos (wwenrr/*), prioritize high-star projects.`
+<p align="center"><code>Snapshot date: 2026-04-03 (UTC) | Source: GitHub GraphQL merged PR history</code></p>
+<p align="center"><code>Rules: public repos only, exclude personal repos (wwenrr/*), high-star threshold >= 1000</code></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Merged%20PRs%20(Filtered)-4-2563EB?style=for-the-badge" alt="Merged PRs Filtered" />
   <img src="https://img.shields.io/badge/Open%20Source%20Repos-2-0891B2?style=for-the-badge" alt="Open Source Repos" />
   <img src="https://img.shields.io/badge/Minimum%20Repo%20Stars-1000-F59E0B?style=for-the-badge" alt="Minimum Repo Stars" />
+  <img src="https://img.shields.io/badge/Public%20OSS%20PRs%20(Non--Personal)-36-7C3AED?style=for-the-badge" alt="Public OSS PRs" />
 </div>
 
-### Featured Repositories
+<p align="center"><code>Filtered year split: 2026: 4</code></p>
+<p align="center"><code>All public OSS (non-personal) year split: 2026: 5 | 2025: 11 | 2024: 20</code></p>
+
+<h3 align="center">Featured Repositories</h3>
 | Repository | Stars | Merged PRs |
 | --- | ---: | ---: |
-| [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,404 | 3 |
+| [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,413 | 3 |
 | [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 |
 
-### Recent Merged PRs (Filtered)
+<h3 align="center">Recent Merged PRs (Filtered)</h3>
 - [Yeachan-Heo/oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) — fix(test): make test:node cross-platform (issue #1121) (`2026-04-02`)
 - [Yeachan-Heo/oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) — fix(team): use manifest.v2 as canonical team cwd metadata source (`2026-04-01`)
 - [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) — fix(pg): align SearchByEmbedding SQL placeholders with scope args (`2026-04-01`)
@@ -85,8 +88,12 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wwenrr&theme=tokyonight" alt="GitHub stats card" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wwenrr&theme=tokyonight" alt="Top languages card" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
