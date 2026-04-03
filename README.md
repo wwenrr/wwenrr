@@ -85,11 +85,12 @@
 | ⭐ | [vercel/next.js](https://github.com/vercel/next.js) | 138,596 | 2 | 2026-04-03 |
 | ⭐ | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 99,149 | 1 | 2026-04-01 |
 | ⭐ | [rails/rails](https://github.com/rails/rails) | 58,319 | 5 | 2026-04-03 |
-| ⭐ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 45,573 | 2 | 2026-04-02 |
-| ⭐ | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,702 | 1 | 2026-04-02 |
-| ⭐ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 21,397 | 2 | 2026-04-01 |
+| ⭐ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 45,580 | 2 | 2026-04-02 |
+| ⭐ | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,704 | 1 | 2026-04-02 |
+| ⭐ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 21,398 | 2 | 2026-04-01 |
 | ⭐ | [sinatra/sinatra](https://github.com/sinatra/sinatra) | 12,420 | 4 | 2026-04-01 |
 | ⭐ | [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2,158 | 1 | 2026-04-03 |
+| ⭐ | [NgoQuocViet2001/codex-keyring](https://github.com/NgoQuocViet2001/codex-keyring) | 4 | 1 | 2026-04-03 |
 
 </div>
 
@@ -103,18 +104,18 @@
 
 | Repo | PR | Title | Date |
 |---|---|---|---|
+| Significant-Gravitas/AutoGPT | [#12641](https://github.com/Significant-Gravitas/AutoGPT/pull/12641) | fix: add accessible fallback dialog title for publish modal | 2026-04-03 |
+| NgoQuocViet2001/codex-keyring | [#2](https://github.com/NgoQuocViet2001/codex-keyring/pull/2) | fix: classify insufficient quota as quota-exhausted | 2026-04-03 |
 | nestjs/nest-cli | [#3309](https://github.com/nestjs/nest-cli/pull/3309) | fix: expand @swc/cli peer range to include ^0.8.0 | 2026-04-03 |
-| AutoGPT | [#12641](https://github.com/Significant-Gravitas/AutoGPT/pull/12641) | fix: add accessible fallback dialog title for publish modal | 2026-04-03 |
-| rails/rails | [#57132](https://github.com/rails/rails/pull/57132) | fix: avoid duplicate has_many inversing records during eager loading | 2026-04-03 |
+| rails/rails | [#57132](https://github.com/rails/rails/pull/57132) | Fix #50258: avoid duplicate has_many inversing records during eager loading | 2026-04-03 |
 | vercel/next.js | [#92232](https://github.com/vercel/next.js/pull/92232) | docs: clarify serverless runtime behavior for use cache | 2026-04-03 |
-| oh-my-claudecode | [#2099](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2099) | fix: expire stale awaiting_confirmation flags for persistent modes | 2026-04-02 |
-| paperclipai/paperclip | [#2481](https://github.com/paperclipai/paperclip/pull/2481) | docs: document required session-key gateway config | 2026-04-02 |
-| paperclipai/paperclip | [#2479](https://github.com/paperclipai/paperclip/pull/2479) | fix: use skill-relative reference paths in paperclip SKILL | 2026-04-02 |
+| Yeachan-Heo/oh-my-claudecode | [#2099](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2099) | fix: expire stale awaiting_confirmation flags for persistent modes | 2026-04-02 |
+| paperclipai/paperclip | [#2481](https://github.com/paperclipai/paperclip/pull/2481) | docs(openclaw_gateway): document required session-key gateway config | 2026-04-02 |
+| paperclipai/paperclip | [#2479](https://github.com/paperclipai/paperclip/pull/2479) | fix(skill): use skill-relative reference paths in paperclip SKILL | 2026-04-02 |
 | abhigyanpatwari/GitNexus | [#621](https://github.com/abhigyanpatwari/GitNexus/pull/621) | fix: accept absolute local paths with trailing separator | 2026-04-01 |
 | rails/rails | [#57122](https://github.com/rails/rails/pull/57122) | railties: fix misleading production cache store comment | 2026-04-01 |
 | rails/rails | [#57121](https://github.com/rails/rails/pull/57121) | railties: clarify production static file cache comment | 2026-04-01 |
 | rails/rails | [#57120](https://github.com/rails/rails/pull/57120) | railties: report missing model on destroy | 2026-04-01 |
-| sinatra/sinatra | [#2099](https://github.com/sinatra/sinatra/pull/2099) | — | 2026-04-01 |
 
 </details>
 </div>
