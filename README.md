@@ -1,49 +1,47 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Khang%20Minh%20%7C%20wwenrr&fontAlign=50&fontAlignY=38&fontSize=42&desc=Backend%20Engineer%20%7C%20Automation%20Builder%20%7C%20Shipping%20Production-Ready%20Work&descAlignY=60&color=gradient&customColorList=24,20,12" alt="header" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/wwenrr">
-    <img src="https://img.shields.io/badge/GitHub-wwenrr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/khang-minh-082b79317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khang%20Minh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khang.tran@hcmut.edu.vn">
-    <img src="https://img.shields.io/badge/Email-khang.tran@hcmut.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=6FA8FF&center=true&vCenter=true&width=700&lines=Khang+Minh+%7C+Backend+Engineer;Automation+Builder+%7C+Production+First;Open+Source+Contributions+%7C+High+Signal+Only)](https://git.io/typing-svg)
 
 <p align="center">
-  I focus on backend systems and automation that improve operational throughput, reliability, and developer velocity.
+  <img src="https://komarev.com/ghpvc/?username=wwenrr&color=4F8CC9&style=for-the-badge" alt="profile views" />
 </p>
+
+<p>
+<img align="left" src="https://avatars.githubusercontent.com/u/100760499?v=4" width="220" />
+
+```text
+wwenrr@github
+-------------------------
+Role: Backend Engineer
+Focus: Automation, reliability, delivery speed
+Location: Ho Chi Minh City
+Timezone: UTC+7
+Core stack: TypeScript, Ruby, C#, PostgreSQL, Redis
+Now building: production-grade internal tooling and workflows
+```
+</p>
+
+<br>
+<br>
+<br>
+
+<h2 align="center">Engineering Focus</h2>
+
+- Build backend features for business-critical workflows.
+- Design and run automation pipelines for operations.
+- Improve CI and release quality for safer deployments.
+- Ship practical UI and theme updates when impact is clear.
+
+<h2 align="center">Open Source Contributions</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0F766E?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0F766E?style=flat-square" alt="Timezone" />
-  <img src="https://img.shields.io/badge/Primary%20Focus-Backend%20%26%20Automation-2563EB?style=flat-square" alt="Primary Focus" />
-  <img src="https://img.shields.io/badge/Delivery%20Style-Production%20First-7C3AED?style=flat-square" alt="Delivery Style" />
-</p>
-
-## Engineering Focus
-- Build and ship backend features that support business-critical workflows.
-- Design automation and batch pipelines for data processing and quality validation.
-- Improve CI/CD and local developer workflow for safer, faster releases.
-- Deliver iterative UI/theme improvements where it directly impacts conversion and usability.
-
-## Open Source Contributions
-<p align="center"><code>Snapshot date: 2026-04-03 UTC</code></p>
-<p align="center"><code>Public repos only | Exclude wwenrr/* | Star threshold >= 1000</code></p>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Merged%20PRs-4-2563EB?style=for-the-badge" alt="Merged PRs" />
   <img src="https://img.shields.io/badge/Open%20Source%20Repos-2-0891B2?style=for-the-badge" alt="Open Source Repos" />
   <img src="https://img.shields.io/badge/Minimum%20Repo%20Stars-1000-F59E0B?style=for-the-badge" alt="Minimum Repo Stars" />
   <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-7C3AED?style=for-the-badge" alt="Public OSS PRs" />
-</div>
+</p>
 
-<p align="center"><code>High-star split | 2026: 4</code></p>
-<p align="center"><code>All public OSS split | 2026: 5 | 2025: 11 | 2024: 20</code></p>
+<p align="center"><code>Snapshot date: 2026-04-03 UTC</code></p>
+<p align="center"><code>High-star split: 2026: 4</code></p>
+<p align="center"><code>All public OSS split: 2026: 5 | 2025: 11 | 2024: 20</code></p>
 
 ### Featured Repositories
 
@@ -59,15 +57,8 @@
 - [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) - fix pg: align SearchByEmbedding SQL placeholders with scope args - 2026-04-01
 - [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) - fix: clarify non interactive guidance for omx agents remove - 2026-04-01
 
-### More Public OSS
+<h2 align="center">Tech Stack</h2>
 
-| Metric | Value |
-| --- | ---: |
-| Public OSS repositories contributed | 7 |
-| Public OSS merged PRs | 36 |
-| Most active year in public OSS | 2024 |
-
-## Stack
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -96,7 +87,8 @@
   <img src="https://img.shields.io/badge/Shopify%20Theme-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
+
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wwenrr&theme=tokyonight" alt="GitHub stats card" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wwenrr&theme=tokyonight" alt="Top languages card" />
@@ -110,6 +102,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwenrr&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-</div>
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="mailto:khang.tran@hcmut.edu.vn">
+    <img src="https://img.shields.io/badge/Email-khang.tran@hcmut.edu.vn-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=e9f2ff" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/khang-minh-082b79317/">
+    <img src="https://img.shields.io/badge/LinkedIn-khang--minh-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=e9f2ff" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/wwenrr">
+    <img src="https://img.shields.io/badge/GitHub-wwenrr-white?style=for-the-badge&logo=github&logoColor=black&labelColor=e9f2ff" alt="GitHub Badge" />
+  </a>
+</p>
