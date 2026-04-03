@@ -4,11 +4,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/100760499?v=4" width="110" style="border-radius:50%" alt="avatar" />
-</div>
-
-<br />
 
 <div align="center">
 
