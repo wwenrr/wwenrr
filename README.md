@@ -1,16 +1,21 @@
 <div align="center">
   <img src="./assets/anime-header.jpg" width="100%" alt="anime background banner" />
+  <sub>Background source: Dreamer-Paul/Anime-Wallpaper</sub>
 </div>
-<p align="center"><sub>Background source: Dreamer-Paul/Anime-Wallpaper</sub></p>
 
-<h1 align="center">Khang Minh | wwenrr</h1>
-<p align="center"><b>Backend Engineer • Automation Builder • Production First</b></p>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwenrr&color=2563eb&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0ea5e9?style=for-the-badge" alt="timezone" />
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh-0f766e?style=for-the-badge" alt="location" />
-</p>
+<div align="center">
+  <h1>Khang Minh · wwenrr</h1>
+  <p><b>Backend Engineer · Automation Builder · Production First</b></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wwenrr&color=2563eb&style=for-the-badge" alt="views" />
+    <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0ea5e9?style=for-the-badge" alt="timezone" />
+    <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh-0f766e?style=for-the-badge" alt="location" />
+  </p>
+</div>
+
+<br />
 
 <table>
 <tr>
@@ -21,7 +26,7 @@
 
 ```text
 wwenrr@github
--------------------------
+─────────────────────────────────────
 Role      : Backend Engineer
 Focus     : Automation, reliability, delivery speed
 Stack     : TypeScript, Ruby, C#, PostgreSQL, Redis
@@ -32,68 +37,79 @@ Build now : Production-grade internal tooling and workflows
 </tr>
 </table>
 
+---
+
 <h2 align="center">Engineering Board</h2>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### What I Build
-- Backend features for business-critical workflows.
-- Automation pipelines for operations and data quality.
-- CI and release improvements for safer deployments.
-- Practical UI and theme updates with measurable impact.
+**What I Build**
+- Backend features for business-critical workflows
+- Automation pipelines for operations and data quality
+- CI and release improvements for safer deployments
+- Practical UI and theme updates with measurable impact
 
 </td>
 <td valign="top" width="50%">
 
-### Work Style
-- Prefer clear ownership and observable outputs.
-- Keep changes small, testable, and easy to review.
-- Bias toward reliability over novelty.
-- Optimize for team velocity and maintainability.
+**Work Style**
+- Prefer clear ownership and observable outputs
+- Keep changes small, testable, and easy to review
+- Bias toward reliability over novelty
+- Optimize for team velocity and maintainability
 
 </td>
 </tr>
 </table>
 
-<h2 align="center">Open Source Contribution Board</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-4-1d4ed8?style=for-the-badge" alt="Merged PRs" />
+<h2 align="center">Open Source Contributions</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Merged%20PRs-36-1d4ed8?style=for-the-badge" alt="Merged PRs" />
   <img src="https://img.shields.io/badge/High--Star%20Repos-2-0284c7?style=for-the-badge" alt="Repos" />
   <img src="https://img.shields.io/badge/Min%20Stars-1000-f59e0b?style=for-the-badge" alt="Min Stars" />
-  <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-7c3aed?style=for-the-badge" alt="Public OSS PRs" />
+</div>
+
+<br />
+
+<p align="center">
+  <code>Snapshot: 2026-04-03 UTC · Public repos only · Stars ≥ 1,000</code>
 </p>
 
-<p align="center"><code>Snapshot: 2026-04-03 UTC</code></p>
-<p align="center"><code>Filter: public repos only, exclude wwenrr/*, stars >= 1000</code></p>
-
-### Featured Repositories
+**Featured Repositories**
 
 | Repository | Stars | Merged PRs | Last Merged |
-| --- | ---: | ---: | ---: |
+|---|---:|---:|---:|
 | [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,442 | 3 | 2026-04-02 |
 | [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 | 2026-04-01 |
 
-### Recent Merged PRs
+**Recent Merged PRs**
 
-- [Yeachan-Heo/oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) - fix test: make test node cross platform - 2026-04-02
-- [Yeachan-Heo/oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) - fix team: use manifest v2 as canonical team cwd metadata source - 2026-04-01
-- [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) - fix pg: align SearchByEmbedding SQL placeholders with scope args - 2026-04-01
-- [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) - fix: clarify non interactive guidance for omx agents remove - 2026-04-01
+| PR | Title | Date |
+|---|---|---|
+| [oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix test: make test node cross platform | 2026-04-02 |
+| [oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix team: use manifest v2 as canonical team cwd metadata source | 2026-04-01 |
+| [goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix pg: align SearchByEmbedding SQL placeholders with scope args | 2026-04-01 |
+| [oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for omx agents remove | 2026-04-01 |
 
-### Public OSS Year Split
+**OSS Year Split**
 
 | Year | Merged PRs |
-| --- | ---: |
+|---|---:|
 | 2026 | 5 |
 | 2025 | 11 |
 | 2024 | 20 |
 
+---
+
 <h2 align="center">Tech Stack</h2>
 
-### Languages
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -103,7 +119,8 @@ Build now : Production-grade internal tooling and workflows
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Backend and Infra
+**Backend & Infra**
+
 <p>
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
@@ -114,6 +131,8 @@ Build now : Production-grade internal tooling and workflows
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+---
 
 <h2 align="center">Analytics</h2>
 
@@ -129,6 +148,8 @@ Build now : Production-grade internal tooling and workflows
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
 </div>
+
+---
 
 <h2 align="center">Contact</h2>
 
