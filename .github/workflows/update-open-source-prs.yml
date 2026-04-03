@@ -1,4 +1,4 @@
-name: Update Open Source PR List
+name: Update Open Source Merged PR List
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-open-prs:
+  update-merged-prs:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update README open PR section
+      - name: Update README merged PR section
         id: update
         uses: actions/github-script@v7
         env:
@@ -39,5 +39,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore(profile): update open source open PR list"
+          git commit -m "chore(profile): update open source merged PR list"
           git push
