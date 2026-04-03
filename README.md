@@ -69,8 +69,8 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Merged%20PRs-36-1d4ed8?style=flat-square" />
-  <img src="https://img.shields.io/badge/2026-5%20PRs-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Total%20Merged%20PRs-39-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/2026-8%20PRs-6366f1?style=flat-square" />
   <img src="https://img.shields.io/badge/2025-11%20PRs-8b5cf6?style=flat-square" />
   <img src="https://img.shields.io/badge/2024-20%20PRs-a78bfa?style=flat-square" />
 </div>
@@ -81,8 +81,9 @@
 
 | | Repository | Stars | Merged PRs | Last |
 |:---:|---|---:|:---:|---|
-| ⭐ | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 12,442 | 3 | 2026-04-02 |
-| ⭐ | [nextlevelbuilder / goclaw](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 | 2026-04-01 |
+| ⭐ | [nestjs / nest](https://github.com/nestjs/nest) | 75,043 | 1 | 2026-04-03 |
+| ⭐ | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 12,761 | 3 | 2026-04-02 |
+| ⭐ | [nextlevelbuilder / goclaw](https://github.com/nextlevelbuilder/goclaw) | 1,509 | 1 | 2026-04-01 |
 
 </div>
 
@@ -96,9 +97,10 @@
 
 | Repo | PR | Title | Date |
 |---|---|---|---|
-| oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix test: make test node cross platform | 2026-04-02 |
-| oh-my-codex | [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix team: use manifest v2 as canonical cwd source | 2026-04-01 |
-| goclaw | [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix pg: align SearchByEmbedding SQL placeholders | 2026-04-01 |
+| nestjs/nest | [#16675](https://github.com/nestjs/nest/pull/16675) | fix(microservices): preserve packet headers in nats serializer | 2026-04-03 |
+| oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix(test): make test:node cross-platform | 2026-04-02 |
+| oh-my-codex | [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix(team): use manifest v2 as canonical cwd source | 2026-04-01 |
+| goclaw | [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix(pg): align SearchByEmbedding SQL placeholders | 2026-04-01 |
 | oh-my-codex | [#1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for agents | 2026-04-01 |
 
 </details>
