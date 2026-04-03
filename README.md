@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Khang%20Minh%20%7C%20wwenrr&fontSize=42&color=0:0f172a,100:2563eb&stroke=ffffff&strokeWidth=1" alt="header" />
+  <img src="./assets/anime-header.jpg" width="100%" alt="anime background banner" />
 </div>
+<p align="center"><sub>Background source: Dreamer-Paul/Anime-Wallpaper</sub></p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Backend+Engineer;Automation+Builder;Production+First+Mindset" alt="typing" />
-  </a>
-</p>
+<h1 align="center">Khang Minh | wwenrr</h1>
+<p align="center"><b>Backend Engineer • Automation Builder • Production First</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wwenrr&color=2563eb&style=for-the-badge" alt="views" />
