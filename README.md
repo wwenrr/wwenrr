@@ -26,30 +26,16 @@ Build now : Production-grade internal tooling and workflows
 
 <br />
 
-<table align="center" width="86%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-<h4>What I Build</h4>
+| What I Build | Work Style |
+|:---|:---|
+| Backend features for business-critical workflows | Clear ownership and observable outputs |
+| Automation pipelines for operations and data quality | Small, testable, easy-to-review changes |
+| CI and release improvements for safer deployments | Bias toward reliability over novelty |
+| Practical UI and theme updates with measurable impact | Optimize for team velocity and maintainability |
 
-- Backend features for business-critical workflows
-- Automation pipelines for operations and data quality
-- CI and release improvements for safer deployments
-- Practical UI and theme updates with measurable impact
-
-</td>
-<td valign="top" width="50%">
-
-<h4>Work Style</h4>
-
-- Prefer clear ownership and observable outputs
-- Keep changes small, testable, and easy to review
-- Bias toward reliability over novelty
-- Optimize for team velocity and maintainability
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
