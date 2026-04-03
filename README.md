@@ -70,52 +70,26 @@
 
 <!-- OPEN_SOURCE_OPEN_PRS:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Open%20OSS%20PRs-31-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Draft-0-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repos-21-0ea5e9?style=flat-square" />
-</div>
-
-<br />
-
-<div align="center">
-
-| | Repository | Stars | Open PRs | Last |
-|:---:|---|---:|:---:|---|
-| ⭐ | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183,098 | 1 | 2026-04-03 |
-| ⭐ | [vercel/next.js](https://github.com/vercel/next.js) | 138,596 | 2 | 2026-04-03 |
-| ⭐ | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 99,149 | 1 | 2026-04-01 |
-| ⭐ | [rails/rails](https://github.com/rails/rails) | 58,319 | 5 | 2026-04-03 |
-| ⭐ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 45,580 | 2 | 2026-04-02 |
-| ⭐ | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,704 | 1 | 2026-04-02 |
-| ⭐ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 21,398 | 2 | 2026-04-01 |
-| ⭐ | [sinatra/sinatra](https://github.com/sinatra/sinatra) | 12,420 | 4 | 2026-04-01 |
-| ⭐ | [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2,158 | 1 | 2026-04-03 |
-| ⭐ | [NgoQuocViet2001/codex-keyring](https://github.com/NgoQuocViet2001/codex-keyring) | 4 | 1 | 2026-04-03 |
-
+  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-6-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-4-0ea5e9?style=flat-square" />
 </div>
 
 <br />
 
 <div align="center">
 <details>
-<summary><b>Recent Open PRs</b></summary>
+<summary><b>Recent Merged PRs</b></summary>
 
 <br />
 
-| Repo | PR | Title | Date |
+| Repo | PR | Title | Merged Date |
 |---|---|---|---|
-| Significant-Gravitas/AutoGPT | [#12641](https://github.com/Significant-Gravitas/AutoGPT/pull/12641) | fix: add accessible fallback dialog title for publish modal | 2026-04-03 |
-| NgoQuocViet2001/codex-keyring | [#2](https://github.com/NgoQuocViet2001/codex-keyring/pull/2) | fix: classify insufficient quota as quota-exhausted | 2026-04-03 |
-| nestjs/nest-cli | [#3309](https://github.com/nestjs/nest-cli/pull/3309) | fix: expand @swc/cli peer range to include ^0.8.0 | 2026-04-03 |
-| rails/rails | [#57132](https://github.com/rails/rails/pull/57132) | Fix #50258: avoid duplicate has_many inversing records during eager loading | 2026-04-03 |
-| vercel/next.js | [#92232](https://github.com/vercel/next.js/pull/92232) | docs: clarify serverless runtime behavior for use cache | 2026-04-03 |
-| Yeachan-Heo/oh-my-claudecode | [#2099](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2099) | fix: expire stale awaiting_confirmation flags for persistent modes | 2026-04-02 |
-| paperclipai/paperclip | [#2481](https://github.com/paperclipai/paperclip/pull/2481) | docs(openclaw_gateway): document required session-key gateway config | 2026-04-02 |
-| paperclipai/paperclip | [#2479](https://github.com/paperclipai/paperclip/pull/2479) | fix(skill): use skill-relative reference paths in paperclip SKILL | 2026-04-02 |
-| abhigyanpatwari/GitNexus | [#621](https://github.com/abhigyanpatwari/GitNexus/pull/621) | fix: accept absolute local paths with trailing separator | 2026-04-01 |
-| rails/rails | [#57122](https://github.com/rails/rails/pull/57122) | railties: fix misleading production cache store comment | 2026-04-01 |
-| rails/rails | [#57121](https://github.com/rails/rails/pull/57121) | railties: clarify production static file cache comment | 2026-04-01 |
-| rails/rails | [#57120](https://github.com/rails/rails/pull/57120) | railties: report missing model on destroy | 2026-04-01 |
+| NgoQuocViet2001/codex-keyring | [#1](https://github.com/NgoQuocViet2001/codex-keyring/pull/1) | fix: classify 403 forbidden as workspace-mismatch | 2026-04-03 |
+| nestjs/nest | [#16675](https://github.com/nestjs/nest/pull/16675) | fix(microservices): preserve packet headers in nats serializer | 2026-04-03 |
+| Yeachan-Heo/oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix(test): make test:node cross-platform (issue #1121) | 2026-04-02 |
+| Yeachan-Heo/oh-my-codex | [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix(team): use manifest.v2 as canonical team cwd metadata source | 2026-04-01 |
+| nextlevelbuilder/goclaw | [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix(pg): align SearchByEmbedding SQL placeholders with scope args | 2026-04-01 |
+| Yeachan-Heo/oh-my-codex | [#1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for omx agents remove | 2026-04-01 |
 
 </details>
 </div>
