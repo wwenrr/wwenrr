@@ -69,47 +69,44 @@
 <br />
 
 <!-- OPEN_SOURCE_OPEN_PRS:START -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Merged%20PRs-39-1d4ed8?style=flat-square" />
-  <img src="https://img.shields.io/badge/2026-8%20PRs-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/2025-11%20PRs-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/2024-20%20PRs-a78bfa?style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20OSS%20PRs-31-16a34a?style=for-the-badge" alt="Open OSS PRs" />
+  <img src="https://img.shields.io/badge/Draft-0-f59e0b?style=for-the-badge" alt="Draft PRs" />
+  <img src="https://img.shields.io/badge/Repos-21-0ea5e9?style=for-the-badge" alt="Repos" />
+</p>
 
-<br />
+<p align="center"><code>Snapshot: 2026-04-03 10:43:27 UTC</code></p>
+<p align="center"><code>Filter: is:open, public repos only, exclude wwenrr/*, archived:false</code></p>
 
-<div align="center">
+### Active Repositories (Open PRs)
 
-| | Repository | Stars | Merged PRs | Last |
-|:---:|---|---:|:---:|---|
-| ⭐ | [nestjs / nest](https://github.com/nestjs/nest) | 75,043 | 1 | 2026-04-03 |
-| ⭐ | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 12,761 | 3 | 2026-04-02 |
-| ⭐ | [nextlevelbuilder / goclaw](https://github.com/nextlevelbuilder/goclaw) | 1,509 | 1 | 2026-04-01 |
+| Repository | Stars | Open PRs | Last Updated |
+| --- | ---: | ---: | ---: |
+| [`rails/rails`](https://github.com/rails/rails) | 58,319 | 5 | 2026-04-03 |
+| [`sinatra/sinatra`](https://github.com/sinatra/sinatra) | 12,420 | 4 | 2026-04-01 |
+| [`vercel/next.js`](https://github.com/vercel/next.js) | 138,596 | 2 | 2026-04-03 |
+| [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | 45,570 | 2 | 2026-04-02 |
+| [`abhigyanpatwari/GitNexus`](https://github.com/abhigyanpatwari/GitNexus) | 21,397 | 2 | 2026-04-01 |
+| [`NgoQuocViet2001/codex-keyring`](https://github.com/NgoQuocViet2001/codex-keyring) | 4 | 1 | 2026-04-03 |
+| [`Significant-Gravitas/AutoGPT`](https://github.com/Significant-Gravitas/AutoGPT) | 183,098 | 1 | 2026-04-03 |
+| [`nestjs/nest-cli`](https://github.com/nestjs/nest-cli) | 2,158 | 1 | 2026-04-03 |
+| [`Yeachan-Heo/oh-my-claudecode`](https://github.com/Yeachan-Heo/oh-my-claudecode) | 22,701 | 1 | 2026-04-02 |
+| [`Anduin2017/HowToCook`](https://github.com/Anduin2017/HowToCook) | 99,149 | 1 | 2026-04-01 |
 
-</div>
+### Recent Open PRs
 
-<br />
-
-<div align="center">
-<details>
-<summary><b>Recent Merged PRs</b></summary>
-
-<br />
-
-| Repo | PR | Title | Date |
-|---|---|---|---|
-| nestjs/nest | [#16675](https://github.com/nestjs/nest/pull/16675) | fix(microservices): preserve packet headers in nats serializer | 2026-04-03 |
-| oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix(test): make test:node cross-platform | 2026-04-02 |
-| oh-my-codex | [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix(team): use manifest v2 as canonical cwd source | 2026-04-01 |
-| goclaw | [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix(pg): align SearchByEmbedding SQL placeholders | 2026-04-01 |
-| oh-my-codex | [#1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for agents | 2026-04-01 |
-
-</details>
-</div>
-
-<br />
-
----
+- [NgoQuocViet2001/codex-keyring #2](https://github.com/NgoQuocViet2001/codex-keyring/pull/2) - fix: classify insufficient quota as quota-exhausted - updated 2026-04-03
+- [Significant-Gravitas/AutoGPT #12641](https://github.com/Significant-Gravitas/AutoGPT/pull/12641) - fix: add accessible fallback dialog title for publish modal - updated 2026-04-03
+- [nestjs/nest-cli #3309](https://github.com/nestjs/nest-cli/pull/3309) - fix: expand @swc/cli peer range to include ^0.8.0 - updated 2026-04-03
+- [rails/rails #57132](https://github.com/rails/rails/pull/57132) - Fix #50258: avoid duplicate has_many inversing records during eager loading - updated 2026-04-03
+- [vercel/next.js #92232](https://github.com/vercel/next.js/pull/92232) - docs: clarify serverless runtime behavior for use cache - updated 2026-04-03
+- [Yeachan-Heo/oh-my-claudecode #2099](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2099) - fix: expire stale awaiting_confirmation flags for persistent modes - updated 2026-04-02
+- [paperclipai/paperclip #2481](https://github.com/paperclipai/paperclip/pull/2481) - docs(openclaw_gateway): document required session-key gateway config - updated 2026-04-02
+- [paperclipai/paperclip #2479](https://github.com/paperclipai/paperclip/pull/2479) - fix(skill): use skill-relative reference paths in paperclip SKILL - updated 2026-04-02
+- [abhigyanpatwari/GitNexus #621](https://github.com/abhigyanpatwari/GitNexus/pull/621) - fix: accept absolute local paths with trailing separator - updated 2026-04-01
+- [rails/rails #57122](https://github.com/rails/rails/pull/57122) - railties: fix misleading production cache store comment - updated 2026-04-01
+- [rails/rails #57121](https://github.com/rails/rails/pull/57121) - railties: clarify production static file cache comment - updated 2026-04-01
+- [rails/rails #57120](https://github.com/rails/rails/pull/57120) - railties: report missing model on destroy - updated 2026-04-01
 <!-- OPEN_SOURCE_OPEN_PRS:END -->
 
 <h2 align="center">Tech Stack</h2>
