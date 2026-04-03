@@ -65,51 +65,42 @@ Build now : Production-grade internal tooling and workflows
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-1d4ed8?style=for-the-badge" alt="Merged PRs" />
-  <img src="https://img.shields.io/badge/High--Star%20Repos-2-0284c7?style=for-the-badge" alt="Repos" />
-  <img src="https://img.shields.io/badge/Min%20Stars-1%2C000-f59e0b?style=for-the-badge" alt="Min Stars" />
+  <img src="https://img.shields.io/badge/Total%20Merged%20PRs-36-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/2026-5%20PRs-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/2025-11%20PRs-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/2024-20%20PRs-a78bfa?style=flat-square" />
 </div>
 
 <br />
 
-<div align="center"><code>Snapshot: 2026-04-03 UTC · Public repos only · Stars ≥ 1,000</code></div>
+<div align="center">
+
+| | Repository | Stars | Merged PRs | Last |
+|:---:|---|---:|:---:|---|
+| ⭐ | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 12,442 | 3 | 2026-04-02 |
+| ⭐ | [nextlevelbuilder / goclaw](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 | 2026-04-01 |
+
+</div>
 
 <br />
 
-<table align="center" width="86%">
-<tr>
-<td valign="top" width="42%">
+<div align="center">
+<details>
+<summary><b>Recent Merged PRs</b></summary>
 
-<h4>Featured Repositories</h4>
+<br />
 
-| Repository | Stars | PRs |
-|---|---:|---:|
-| [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 12,442 | 3 |
-| [goclaw](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 |
+| Repo | PR | Title | Date |
+|---|---|---|---|
+| oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix test: make test node cross platform | 2026-04-02 |
+| oh-my-codex | [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix team: use manifest v2 as canonical cwd source | 2026-04-01 |
+| goclaw | [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix pg: align SearchByEmbedding SQL placeholders | 2026-04-01 |
+| oh-my-codex | [#1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for agents | 2026-04-01 |
 
-<h4>OSS by Year</h4>
+</details>
+</div>
 
-| Year | Merged PRs |
-|---|---:|
-| 2026 | 5 |
-| 2025 | 11 |
-| 2024 | 20 |
-
-</td>
-<td valign="top" width="58%">
-
-<h4>Recent Merged PRs</h4>
-
-| PR | Title | Date |
-|---|---|---|
-| [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix test: make test node cross platform | 2026-04-02 |
-| [#1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) | fix team: use manifest v2 as canonical cwd source | 2026-04-01 |
-| [#623](https://github.com/nextlevelbuilder/goclaw/pull/623) | fix pg: align SearchByEmbedding SQL placeholders | 2026-04-01 |
-| [#1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) | fix: clarify non-interactive guidance for agents | 2026-04-01 |
-
-</td>
-</tr>
-</table>
+<sub align="center">Public repos only · Stars ≥ 1,000 · Snapshot 2026-04-03</sub>
 
 <br />
 
