@@ -100,8 +100,6 @@ Build now : Production-grade internal tooling and workflows
 </details>
 </div>
 
-<sub align="center">Public repos only · Stars ≥ 1,000 · Snapshot 2026-04-03</sub>
-
 <br />
 
 ---
