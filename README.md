@@ -182,18 +182,14 @@ Build now : Production-grade internal tooling and workflows
 
 <br />
 
-<p align="center">
-  <a href="mailto:khang.tran@hcmut.edu.vn">
-    <img src="https://img.shields.io/badge/Email-khang.tran%40hcmut.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/khang-minh-082b79317/">
-    <img src="https://img.shields.io/badge/LinkedIn-khang--minh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/wwenrr">
-    <img src="https://img.shields.io/badge/GitHub-wwenrr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+| | |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | [khang.tranminh047@gmail.com](mailto:khang.tranminh047@gmail.com) |
+| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> | [khang-minh](https://www.linkedin.com/in/khang-minh-082b79317/) |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | [wwenrr](https://github.com/wwenrr) |
+
+</div>
 
 <br />
