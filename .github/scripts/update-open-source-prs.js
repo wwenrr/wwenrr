@@ -46,43 +46,61 @@ function buildSection({ username, prs }) {
     .sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt))
     .slice(0, 12);
 
+  const topReposSorted = topRepos
+    .slice()
+    .sort((a, b) => b.stars - a.stars);
+
   const lines = [];
-  lines.push('<p align="center">');
-  lines.push(`  <img src="https://img.shields.io/badge/Open%20OSS%20PRs-${totalOpen}-16a34a?style=for-the-badge" alt="Open OSS PRs" />`);
-  lines.push(`  <img src="https://img.shields.io/badge/Draft-${draftCount}-f59e0b?style=for-the-badge" alt="Draft PRs" />`);
-  lines.push(`  <img src="https://img.shields.io/badge/Repos-${uniqueRepos}-0ea5e9?style=for-the-badge" alt="Repos" />`);
-  lines.push('</p>');
+  lines.push('<div align="center">');
+  lines.push(`  <img src="https://img.shields.io/badge/Open%20OSS%20PRs-${totalOpen}-16a34a?style=flat-square" />`);
+  lines.push(`  <img src="https://img.shields.io/badge/Draft-${draftCount}-f59e0b?style=flat-square" />`);
+  lines.push(`  <img src="https://img.shields.io/badge/Repos-${uniqueRepos}-0ea5e9?style=flat-square" />`);
+  lines.push('</div>');
   lines.push('');
-  lines.push(`<p align="center"><code>Snapshot: ${nowUtc}</code></p>`);
-  lines.push(`<p align="center"><code>Filter: is:open, public repos only, exclude ${username}/*, archived:false, stars > 3</code></p>`);
+  lines.push('<br />');
   lines.push('');
 
-  if (topRepos.length > 0) {
-    lines.push('### Active Repositories (Open PRs)');
+  if (topReposSorted.length > 0) {
+    lines.push('<div align="center">');
     lines.push('');
-    lines.push('| Repository | Stars | Open PRs | Last Updated |');
-    lines.push('| --- | ---: | ---: | ---: |');
-    for (const row of topRepos) {
+    lines.push('| | Repository | Stars | Open PRs | Last |');
+    lines.push('|:---:|---|---:|:---:|---|');
+    for (const row of topReposSorted) {
       lines.push(
-        `| [\`${row.repo}\`](https://github.com/${row.repo}) | ${formatStars(row.stars)} | ${row.openCount} | ${formatDate(row.latestUpdatedAt)} |`
+        `| ⭐ | [${row.repo}](https://github.com/${row.repo}) | ${formatStars(row.stars)} | ${row.openCount} | ${formatDate(row.latestUpdatedAt)} |`
       );
     }
     lines.push('');
+    lines.push('</div>');
+    lines.push('');
+    lines.push('<br />');
+    lines.push('');
   }
 
-  lines.push('### Recent Open PRs');
+  lines.push('<div align="center">');
+  lines.push('<details>');
+  lines.push('<summary><b>Recent Open PRs</b></summary>');
+  lines.push('');
+  lines.push('<br />');
   lines.push('');
 
   if (recentOpen.length === 0) {
-    lines.push('- No open OSS PRs found for current filter.');
+    lines.push('No open OSS PRs found.');
   } else {
+    lines.push('| Repo | PR | Title | Date |');
+    lines.push('|---|---|---|---|');
     for (const pr of recentOpen) {
-      const draftLabel = pr.isDraft ? ' [DRAFT]' : '';
+      const repoShort = pr.repository.nameWithOwner.split('/')[1];
+      const draftLabel = pr.isDraft ? ' `[DRAFT]`' : '';
       lines.push(
-        `- [${pr.repository.nameWithOwner} #${pr.number}](${pr.url}) - ${pr.title}${draftLabel} - updated ${formatDate(pr.updatedAt)}`
+        `| ${pr.repository.nameWithOwner} | [#${pr.number}](${pr.url}) | ${pr.title}${draftLabel} | ${formatDate(pr.updatedAt)} |`
       );
     }
   }
+
+  lines.push('');
+  lines.push('</details>');
+  lines.push('</div>');
 
   return lines.join('\n');
 }
