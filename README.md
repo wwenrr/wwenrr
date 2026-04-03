@@ -7,14 +7,10 @@
 
 <div align="center">
 
-```text
-wwenrr@github
-─────────────────────────────────────────────────
-Role      : Backend Engineer
-Focus     : Automation, reliability, delivery speed
-Stack     : TypeScript, Ruby, C#, PostgreSQL, Redis
-Build now : Production-grade internal tooling and workflows
-```
+<img src="https://img.shields.io/badge/Role-Backend%20Engineer-3178C6?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Reliability-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Ruby%20%7C%20C%23-CC342D?style=flat-square" />
+<img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20Redis-4169E1?style=flat-square" />
 
 </div>
 
