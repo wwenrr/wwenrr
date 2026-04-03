@@ -31,31 +31,41 @@
 - Improve CI/CD and local developer workflow for safer, faster releases.
 - Deliver iterative UI/theme improvements where it directly impacts conversion and usability.
 
-## Open Source Contributions (High-Star Repos Only)
-<p align="center"><code>Snapshot date: 2026-04-03 (UTC) | Source: GitHub GraphQL merged PR history</code></p>
-<p align="center"><code>Rules: public repos only, exclude personal repos (wwenrr/*), high-star threshold >= 1000</code></p>
+## Open Source Contributions
+<p align="center"><code>Snapshot date: 2026-04-03 UTC</code></p>
+<p align="center"><code>Public repos only | Exclude wwenrr/* | Star threshold >= 1000</code></p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs%20(Filtered)-4-2563EB?style=for-the-badge" alt="Merged PRs Filtered" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-4-2563EB?style=for-the-badge" alt="Merged PRs" />
   <img src="https://img.shields.io/badge/Open%20Source%20Repos-2-0891B2?style=for-the-badge" alt="Open Source Repos" />
   <img src="https://img.shields.io/badge/Minimum%20Repo%20Stars-1000-F59E0B?style=for-the-badge" alt="Minimum Repo Stars" />
-  <img src="https://img.shields.io/badge/Public%20OSS%20PRs%20(Non--Personal)-36-7C3AED?style=for-the-badge" alt="Public OSS PRs" />
+  <img src="https://img.shields.io/badge/Public%20OSS%20PRs-36-7C3AED?style=for-the-badge" alt="Public OSS PRs" />
 </div>
 
-<p align="center"><code>Filtered year split: 2026: 4</code></p>
-<p align="center"><code>All public OSS (non-personal) year split: 2026: 5 | 2025: 11 | 2024: 20</code></p>
+<p align="center"><code>High-star split | 2026: 4</code></p>
+<p align="center"><code>All public OSS split | 2026: 5 | 2025: 11 | 2024: 20</code></p>
 
-<h3 align="center">Featured Repositories</h3>
+### Featured Repositories
+
 | Repository | Stars | Merged PRs |
 | --- | ---: | ---: |
 | [`Yeachan-Heo/oh-my-codex`](https://github.com/Yeachan-Heo/oh-my-codex) | 12,413 | 3 |
 | [`nextlevelbuilder/goclaw`](https://github.com/nextlevelbuilder/goclaw) | 1,503 | 1 |
 
-<h3 align="center">Recent Merged PRs (Filtered)</h3>
-- [Yeachan-Heo/oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) — fix(test): make test:node cross-platform (issue #1121) (`2026-04-02`)
-- [Yeachan-Heo/oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) — fix(team): use manifest.v2 as canonical team cwd metadata source (`2026-04-01`)
-- [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) — fix(pg): align SearchByEmbedding SQL placeholders with scope args (`2026-04-01`)
-- [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) — fix: clarify non-interactive guidance for omx agents remove (`2026-04-01`)
+### Recent Merged PRs
+
+- [Yeachan-Heo/oh-my-codex #1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) - fix test: make test node cross platform - 2026-04-02
+- [Yeachan-Heo/oh-my-codex #1114](https://github.com/Yeachan-Heo/oh-my-codex/pull/1114) - fix team: use manifest v2 as canonical team cwd metadata source - 2026-04-01
+- [nextlevelbuilder/goclaw #623](https://github.com/nextlevelbuilder/goclaw/pull/623) - fix pg: align SearchByEmbedding SQL placeholders with scope args - 2026-04-01
+- [Yeachan-Heo/oh-my-codex #1103](https://github.com/Yeachan-Heo/oh-my-codex/pull/1103) - fix: clarify non interactive guidance for omx agents remove - 2026-04-01
+
+### More Public OSS
+
+| Metric | Value |
+| --- | ---: |
+| Public OSS repositories contributed | 7 |
+| Public OSS merged PRs | 36 |
+| Most active year in public OSS | 2024 |
 
 ## Stack
 ### Languages
