@@ -54,7 +54,7 @@ function buildSection({ username, prs }) {
   lines.push('</p>');
   lines.push('');
   lines.push(`<p align="center"><code>Snapshot: ${nowUtc}</code></p>`);
-  lines.push(`<p align="center"><code>Filter: is:open, public repos only, exclude ${username}/*, archived:false</code></p>`);
+  lines.push(`<p align="center"><code>Filter: is:open, public repos only, exclude ${username}/*, archived:false, stars > 3</code></p>`);
   lines.push('');
 
   if (topRepos.length > 0) {
@@ -124,6 +124,7 @@ module.exports = async ({ github, core, context }) => {
     .filter(Boolean)
     .filter((pr) => pr.repository && !pr.repository.isPrivate && !pr.repository.isArchived)
     .filter((pr) => pr.repository.owner.login.toLowerCase() !== username.toLowerCase())
+    .filter((pr) => pr.repository.stargazerCount > 3)
     .sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt));
 
   const readmePath = path.join(process.cwd(), 'README.md');
