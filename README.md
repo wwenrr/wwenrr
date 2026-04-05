@@ -70,8 +70,8 @@
 
 <!-- OPEN_SOURCE_OPEN_PRS:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-6-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repos-4-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-8-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-5-0ea5e9?style=flat-square" />
 </div>
 
 <br />
@@ -84,6 +84,8 @@
 
 | Repo | PR | Title | Merged Date |
 |---|---|---|---|
+| Yeachan-Heo/oh-my-claudecode | [#2099](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2099) | fix: expire stale awaiting_confirmation flags for persistent modes | 2026-04-05 |
+| NgoQuocViet2001/codex-keyring | [#2](https://github.com/NgoQuocViet2001/codex-keyring/pull/2) | fix: classify insufficient quota as quota-exhausted | 2026-04-04 |
 | NgoQuocViet2001/codex-keyring | [#1](https://github.com/NgoQuocViet2001/codex-keyring/pull/1) | fix: classify 403 forbidden as workspace-mismatch | 2026-04-03 |
 | nestjs/nest | [#16675](https://github.com/nestjs/nest/pull/16675) | fix(microservices): preserve packet headers in nats serializer | 2026-04-03 |
 | Yeachan-Heo/oh-my-codex | [#1144](https://github.com/Yeachan-Heo/oh-my-codex/pull/1144) | fix(test): make test:node cross-platform (issue #1121) | 2026-04-02 |
