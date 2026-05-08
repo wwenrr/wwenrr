@@ -70,8 +70,8 @@
 
 <!-- OPEN_SOURCE_OPEN_PRS:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-11-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repos-8-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-12-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-9-0ea5e9?style=flat-square" />
 </div>
 
 <br />
@@ -84,6 +84,7 @@
 
 | Repo | PR | Title | Merged Date |
 |---|---|---|---|
+| rails/rails | [#57122](https://github.com/rails/rails/pull/57122) | railties: fix misleading production cache store comment | 2026-05-07 |
 | larksuite/cli | [#256](https://github.com/larksuite/cli/pull/256) | fix(docs): validate --selection-by-title format early | 2026-04-21 |
 | vercel/next.js | [#92232](https://github.com/vercel/next.js/pull/92232) | docs: clarify serverless runtime behavior for use cache | 2026-04-07 |
 | nestjs/nest-cli | [#3309](https://github.com/nestjs/nest-cli/pull/3309) | fix: expand @swc/cli peer range to include ^0.8.0 | 2026-04-07 |
