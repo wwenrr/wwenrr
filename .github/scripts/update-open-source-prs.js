@@ -5,9 +5,14 @@ function formatDate(dateString) {
   return new Date(dateString).toISOString().slice(0, 10);
 }
 
-function sanitizeTableCell(value, fallback = '-') {
+function sanitizeMarkdownText(value, fallback = '-') {
   if (value === null || value === undefined) return fallback;
-  const text = String(value).replace(/\r?\n/g, ' ').replace(/\|/g, '\\|').trim();
+  const text = String(value)
+    .replace(/\r?\n/g, ' ')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .trim();
   return text.length > 0 ? text : fallback;
 }
 
@@ -25,7 +30,7 @@ function buildSection({ username, prs }) {
   lines.push('<br />');
   lines.push('');
 
-  lines.push('<div align="center">');
+  lines.push('<div align="left">');
   lines.push('<details>');
   lines.push('<summary><b>Recent Merged PRs</b></summary>');
   lines.push('');
@@ -35,15 +40,15 @@ function buildSection({ username, prs }) {
   if (recentMerged.length === 0) {
     lines.push('No merged OSS PRs found.');
   } else {
-    lines.push('| Repo | PR | Title | Merged Date |');
-    lines.push('|---|---|---|---|');
+    lines.push('<ul>');
     for (const pr of recentMerged) {
-      const repo = sanitizeTableCell(pr.repository.nameWithOwner);
-      const title = sanitizeTableCell(pr.title, '—');
+      const repo = sanitizeMarkdownText(pr.repository.nameWithOwner);
+      const title = sanitizeMarkdownText(pr.title, '-');
       lines.push(
-        `| ${repo} | [#${pr.number}](${pr.url}) | ${title} | ${formatDate(pr.mergedAt)} |`
+        `<li><a href="${pr.url}">${repo}#${pr.number}</a> - ${title} <sub>${formatDate(pr.mergedAt)}</sub></li>`
       );
     }
+    lines.push('</ul>');
   }
 
   lines.push('');

@@ -1,208 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="760" viewBox="0 0 1920 760" role="img" aria-labelledby="title desc">
-  <title id="title">Khang Minh anime cyberpunk profile banner</title>
-  <desc id="desc">A neon anime-inspired GitHub profile banner for wwenrr with a backend engineer HUD, city lights, manga panels, and an original coder character.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="460" viewBox="0 0 1920 460" role="img" aria-labelledby="title desc">
+  <title id="title">Soft anime profile banner for Khang Minh</title>
+  <desc id="desc">A calm pastel anime-inspired banner for a backend engineer profile.</desc>
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07051f"/>
-      <stop offset="0.42" stop-color="#151245"/>
-      <stop offset="0.72" stop-color="#311052"/>
-      <stop offset="1" stop-color="#12071f"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7fb"/>
+      <stop offset="0.44" stop-color="#ffe4f1"/>
+      <stop offset="1" stop-color="#e0f7ff"/>
     </linearGradient>
-    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff4da6"/>
-      <stop offset="0.5" stop-color="#ff8bd1"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#38bdf8"/>
     </linearGradient>
-    <linearGradient id="cyanGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <linearGradient id="goldGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#facc15"/>
-      <stop offset="1" stop-color="#fb7185"/>
-    </linearGradient>
-    <radialGradient id="moon" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#fff7ed"/>
-      <stop offset="0.55" stop-color="#fecdd3"/>
-      <stop offset="1" stop-color="#fb7185" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.98 0 1 0 0 0.18 0 0 1 0 0.72 0 0 0 0.75 0" result="colored"/>
-      <feMerge>
-        <feMergeNode in="colored"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="softShadow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#f9a8d4" flood-opacity="0.28"/>
     </filter>
-    <filter id="cyanSoftGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.12 0 1 0 0 0.82 0 0 1 0 1 0 0 0 0.7 0" result="colored"/>
-      <feMerge>
-        <feMergeNode in="colored"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <clipPath id="rightPanel">
-      <path d="M1254 62H1844L1776 694H1126Z"/>
-    </clipPath>
-    <clipPath id="screenClip">
-      <rect x="120" y="122" width="790" height="452" rx="34"/>
-    </clipPath>
-    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
-      <path d="M0 7H8" stroke="#ffffff" stroke-opacity="0.05"/>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="#f9a8d4" opacity="0.32"/>
     </pattern>
   </defs>
 
-  <rect width="1920" height="760" fill="url(#sky)"/>
-  <rect width="1920" height="760" fill="url(#scan)"/>
+  <rect width="1920" height="460" rx="34" fill="url(#bg)"/>
+  <rect width="1920" height="460" rx="34" fill="url(#dots)"/>
 
-  <g opacity="0.5">
-    <circle cx="1560" cy="176" r="172" fill="url(#moon)"/>
-    <circle cx="1515" cy="148" r="20" fill="#fff7ed" opacity="0.16"/>
-    <circle cx="1618" cy="218" r="13" fill="#fff7ed" opacity="0.16"/>
-    <circle cx="1588" cy="116" r="8" fill="#fff7ed" opacity="0.18"/>
+  <g opacity="0.72">
+    <circle cx="1580" cy="86" r="132" fill="#bae6fd"/>
+    <circle cx="1706" cy="286" r="178" fill="#fbcfe8"/>
+    <circle cx="266" cy="346" r="158" fill="#ddd6fe"/>
+    <circle cx="82" cy="88" r="96" fill="#fef3c7"/>
   </g>
 
-  <g opacity="0.45">
-    <path d="M32 104H354L430 204H108Z" fill="#ffffff" opacity="0.035"/>
-    <path d="M1546 18H1900L1838 96H1484Z" fill="#ffffff" opacity="0.04"/>
-    <path d="M988 610H1304L1250 714H934Z" fill="#ffffff" opacity="0.04"/>
-    <path d="M1214 86H1846L1778 696H1118Z" fill="none" stroke="#ff4da6" stroke-width="3" opacity="0.25"/>
-    <path d="M1184 116H1814" stroke="#7dd3fc" stroke-width="2" opacity="0.22"/>
-    <path d="M1152 662H1784" stroke="#ff4da6" stroke-width="2" opacity="0.25"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.52">
+    <path d="M130 122C220 54 366 60 450 136" stroke="#f472b6" stroke-width="5"/>
+    <path d="M1396 346C1510 406 1682 384 1776 286" stroke="#38bdf8" stroke-width="5"/>
+    <path d="M1130 82H1608" stroke="#ffffff" stroke-width="4"/>
+    <path d="M256 392H720" stroke="#ffffff" stroke-width="4"/>
   </g>
 
-  <g opacity="0.75">
-    <path d="M0 640H1920V760H0Z" fill="#050816"/>
-    <path d="M0 636H1920" stroke="url(#pinkGlow)" stroke-width="4" opacity="0.85"/>
-    <path d="M40 612H86V640H40Z" fill="#111827"/>
-    <path d="M110 570H164V640H110Z" fill="#0f172a"/>
-    <path d="M196 594H250V640H196Z" fill="#111827"/>
-    <path d="M292 544H368V640H292Z" fill="#0f172a"/>
-    <path d="M408 590H456V640H408Z" fill="#111827"/>
-    <path d="M500 520H572V640H500Z" fill="#0f172a"/>
-    <path d="M620 574H686V640H620Z" fill="#111827"/>
-    <path d="M742 530H818V640H742Z" fill="#0f172a"/>
-    <path d="M868 582H930V640H868Z" fill="#111827"/>
-    <path d="M990 552H1062V640H990Z" fill="#0f172a"/>
-    <path d="M1118 594H1194V640H1118Z" fill="#111827"/>
-    <path d="M1226 524H1292V640H1226Z" fill="#0f172a"/>
-    <path d="M1342 576H1416V640H1342Z" fill="#111827"/>
-    <path d="M1468 500H1542V640H1468Z" fill="#0f172a"/>
-    <path d="M1580 572H1656V640H1580Z" fill="#111827"/>
-    <path d="M1696 532H1766V640H1696Z" fill="#0f172a"/>
-    <path d="M1812 596H1870V640H1812Z" fill="#111827"/>
-    <g fill="#7dd3fc" opacity="0.75">
-      <rect x="314" y="566" width="12" height="18"/>
-      <rect x="342" y="566" width="12" height="18"/>
-      <rect x="522" y="548" width="12" height="18"/>
-      <rect x="550" y="548" width="12" height="18"/>
-      <rect x="764" y="560" width="12" height="18"/>
-      <rect x="792" y="560" width="12" height="18"/>
-      <rect x="1016" y="578" width="12" height="18"/>
-      <rect x="1248" y="552" width="12" height="18"/>
-      <rect x="1276" y="552" width="12" height="18"/>
-      <rect x="1492" y="526" width="12" height="18"/>
-      <rect x="1520" y="526" width="12" height="18"/>
-      <rect x="1720" y="558" width="12" height="18"/>
-      <rect x="1748" y="558" width="12" height="18"/>
+  <g opacity="0.9">
+    <path d="M1506 130C1530 114 1552 136 1540 164C1512 174 1492 150 1506 130Z" fill="#f9a8d4"/>
+    <path d="M1662 186C1684 170 1708 192 1694 220C1668 230 1648 206 1662 186Z" fill="#fde68a"/>
+    <path d="M356 106C380 90 402 112 390 140C362 150 342 126 356 106Z" fill="#bfdbfe"/>
+    <path d="M216 238C240 222 262 244 250 272C222 282 202 258 216 238Z" fill="#f9a8d4"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="438" y="86" width="1044" height="286" rx="32" fill="#ffffff" fill-opacity="0.78" stroke="#ffffff" stroke-width="3"/>
+    <path d="M502 166H1418" stroke="url(#ink)" stroke-width="4"/>
+    <text x="960" y="156" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="76" font-weight="850" fill="#2f2448" letter-spacing="1.5">Khang Minh</text>
+    <text x="960" y="226" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="700" fill="#be185d">wwenrr / backend engineer / automation builder</text>
+    <text x="960" y="282" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="23" fill="#5b4b74">soft anime profile, real OSS patches, calm production systems</text>
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="17" font-weight="700">
+      <rect x="674" y="318" width="154" height="34" rx="17" fill="#fce7f3"/>
+      <text x="751" y="341" text-anchor="middle" fill="#be185d">UTC+7</text>
+      <rect x="854" y="318" width="214" height="34" rx="17" fill="#e0f2fe"/>
+      <text x="961" y="341" text-anchor="middle" fill="#0369a1">Ho Chi Minh</text>
+      <rect x="1094" y="318" width="154" height="34" rx="17" fill="#ede9fe"/>
+      <text x="1171" y="341" text-anchor="middle" fill="#6d28d9">OSS</text>
     </g>
-    <g fill="#ff4da6" opacity="0.8">
-      <rect x="128" y="598" width="14" height="18"/>
-      <rect x="220" y="612" width="14" height="18"/>
-      <rect x="640" y="598" width="14" height="18"/>
-      <rect x="888" y="604" width="14" height="18"/>
-      <rect x="1364" y="602" width="14" height="18"/>
-      <rect x="1604" y="596" width="14" height="18"/>
-      <rect x="1832" y="612" width="14" height="18"/>
-    </g>
-  </g>
-
-  <g clip-path="url(#screenClip)">
-    <rect x="120" y="122" width="790" height="452" rx="34" fill="#090a1f" opacity="0.9"/>
-    <path d="M120 188H910" stroke="#ffffff" stroke-opacity="0.12"/>
-    <circle cx="162" cy="156" r="11" fill="#ff5d8f"/>
-    <circle cx="198" cy="156" r="11" fill="#facc15"/>
-    <circle cx="234" cy="156" r="11" fill="#22c55e"/>
-    <path d="M300 156H744" stroke="#7dd3fc" stroke-opacity="0.35" stroke-width="2"/>
-    <path d="M166 246H684" stroke="#ff4da6" stroke-width="3" filter="url(#softGlow)"/>
-    <path d="M166 292H780" stroke="#7dd3fc" stroke-width="2" opacity="0.78"/>
-    <path d="M166 338H600" stroke="#a78bfa" stroke-width="2" opacity="0.76"/>
-    <path d="M166 384H760" stroke="#facc15" stroke-width="2" opacity="0.65"/>
-    <path d="M166 430H540" stroke="#22c55e" stroke-width="2" opacity="0.7"/>
-    <path d="M166 486H822" stroke="#ffffff" stroke-opacity="0.1"/>
-    <text x="166" y="236" fill="#f9a8d4" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="700">system.boot("wwenrr")</text>
-    <text x="166" y="284" fill="#e0f2fe" font-family="JetBrains Mono, Consolas, monospace" font-size="22">class: backend engineer / automation builder</text>
-    <text x="166" y="330" fill="#ddd6fe" font-family="JetBrains Mono, Consolas, monospace" font-size="22">arc: OSS patches + production tooling</text>
-    <text x="166" y="376" fill="#fef3c7" font-family="JetBrains Mono, Consolas, monospace" font-size="22">stack: rails / next.js / nestjs / go / python</text>
-    <text x="166" y="422" fill="#bbf7d0" font-family="JetBrains Mono, Consolas, monospace" font-size="22">status: shipping small fixes with evidence</text>
-    <rect x="166" y="512" width="274" height="34" rx="8" fill="#ff4da6" opacity="0.18" stroke="#ff4da6"/>
-    <text x="184" y="535" fill="#fff7ed" font-family="JetBrains Mono, Consolas, monospace" font-size="18">OSS MERGED PRS: 15</text>
-    <rect x="462" y="512" width="232" height="34" rx="8" fill="#22d3ee" opacity="0.14" stroke="#22d3ee"/>
-    <text x="480" y="535" fill="#e0f2fe" font-family="JetBrains Mono, Consolas, monospace" font-size="18">PUBLIC REPOS: 80</text>
-  </g>
-  <rect x="120" y="122" width="790" height="452" rx="34" fill="none" stroke="url(#pinkGlow)" stroke-width="3" filter="url(#softGlow)"/>
-
-  <g filter="url(#softGlow)">
-    <text x="110" y="92" fill="#fdf2f8" font-family="Inter, Segoe UI, sans-serif" font-size="24" font-weight="800" letter-spacing="4">NEON BACKEND GUILD</text>
-    <text x="118" y="706" fill="#f9a8d4" font-family="JetBrains Mono, Consolas, monospace" font-size="22" letter-spacing="2">ANIME HUD // REAL OSS CONTRIBUTIONS // PRODUCTION PATCHES</text>
-  </g>
-
-  <g>
-    <text x="948" y="250" fill="#ffffff" font-family="Inter, Segoe UI, sans-serif" font-size="88" font-weight="900" letter-spacing="2" filter="url(#softGlow)">Khang Minh</text>
-    <text x="956" y="306" fill="#f9a8d4" font-family="JetBrains Mono, Consolas, monospace" font-size="27" font-weight="700">wwenrr // backend engineer</text>
-    <text x="956" y="354" fill="#c4b5fd" font-family="JetBrains Mono, Consolas, monospace" font-size="23">automation builder + OSS contributor</text>
-    <path d="M956 386H1390" stroke="url(#pinkGlow)" stroke-width="4" filter="url(#softGlow)"/>
-    <g font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">
-      <rect x="956" y="420" width="166" height="42" rx="8" fill="#ff4da6" opacity="0.2" stroke="#ff4da6"/>
-      <text x="976" y="447" fill="#fdf2f8">UTC+7</text>
-      <rect x="1144" y="420" width="220" height="42" rx="8" fill="#22d3ee" opacity="0.16" stroke="#22d3ee"/>
-      <text x="1164" y="447" fill="#e0f2fe">Ho Chi Minh</text>
-    </g>
-  </g>
-
-  <g clip-path="url(#rightPanel)">
-    <path d="M1254 62H1844L1776 694H1126Z" fill="#ffffff" opacity="0.035"/>
-    <g transform="translate(1390 156) scale(0.88)">
-      <path d="M228 446C112 448 54 406 46 324C36 216 118 112 250 106C374 100 456 186 462 300C468 408 372 444 228 446Z" fill="#141032" stroke="#ff4da6" stroke-width="4" filter="url(#softGlow)"/>
-      <path d="M146 160C132 106 158 58 220 44C278 32 336 58 350 122C374 128 396 146 410 174C426 208 410 246 380 266C342 292 262 272 224 250C194 232 160 212 146 160Z" fill="#f9a8d4"/>
-      <path d="M168 122C188 58 258 26 322 50C278 40 232 80 226 132C220 184 244 224 302 254C226 244 150 196 168 122Z" fill="#a78bfa"/>
-      <path d="M232 48C294 20 366 56 380 126C394 188 354 238 302 254C374 246 430 208 432 146C434 70 330 8 232 48Z" fill="#7c3aed"/>
-      <path d="M178 154C198 142 224 144 242 162" stroke="#3b0764" stroke-width="8" stroke-linecap="round"/>
-      <path d="M302 160C324 144 354 144 374 164" stroke="#3b0764" stroke-width="8" stroke-linecap="round"/>
-      <circle cx="216" cy="180" r="10" fill="#111827"/>
-      <circle cx="348" cy="180" r="10" fill="#111827"/>
-      <circle cx="220" cy="176" r="3" fill="#ffffff"/>
-      <circle cx="352" cy="176" r="3" fill="#ffffff"/>
-      <path d="M276 196C268 214 278 226 300 220" fill="none" stroke="#be185d" stroke-width="5" stroke-linecap="round"/>
-      <path d="M214 268C286 304 354 292 392 258C418 304 428 372 398 416C348 454 170 454 112 412C80 366 100 302 136 258C156 278 184 292 214 268Z" fill="#1f1b4b" stroke="#7dd3fc" stroke-width="4" filter="url(#cyanSoftGlow)"/>
-      <path d="M150 296C210 326 316 330 382 292" stroke="#ff4da6" stroke-width="5" stroke-linecap="round"/>
-      <path d="M126 342H420L390 430H96Z" fill="#0b1025" stroke="#facc15" stroke-width="4"/>
-      <path d="M196 386H324" stroke="#7dd3fc" stroke-width="5" stroke-linecap="round"/>
-      <path d="M108 286C68 308 42 350 56 386C68 416 98 416 116 388" fill="none" stroke="#f9a8d4" stroke-width="20" stroke-linecap="round"/>
-      <path d="M412 286C456 306 486 350 470 388C456 418 424 418 404 386" fill="none" stroke="#f9a8d4" stroke-width="20" stroke-linecap="round"/>
-      <path d="M104 122L66 74L134 88Z" fill="#1f1b4b" stroke="#ff4da6" stroke-width="4"/>
-      <path d="M424 124L472 78L486 152Z" fill="#1f1b4b" stroke="#ff4da6" stroke-width="4"/>
-      <path d="M80 96C142 46 320 4 468 104" stroke="#7dd3fc" stroke-width="5" opacity="0.45" stroke-linecap="round"/>
-      <rect x="146" y="86" width="246" height="32" rx="16" fill="#111827" stroke="#22d3ee" stroke-width="4"/>
-      <circle cx="146" cy="102" r="20" fill="#111827" stroke="#22d3ee" stroke-width="5"/>
-      <circle cx="392" cy="102" r="20" fill="#111827" stroke="#22d3ee" stroke-width="5"/>
-    </g>
-  </g>
-
-  <g opacity="0.86" filter="url(#softGlow)">
-    <path d="M1616 510C1636 500 1650 518 1642 540C1622 550 1606 532 1616 510Z" fill="#ff8bd1"/>
-    <path d="M1714 318C1732 306 1750 322 1744 342C1722 352 1708 336 1714 318Z" fill="#facc15"/>
-    <path d="M1092 128C1112 118 1128 136 1118 158C1098 166 1082 148 1092 128Z" fill="#ff8bd1"/>
-    <path d="M916 664C936 654 952 672 942 694C922 702 906 684 916 664Z" fill="#7dd3fc"/>
-    <path d="M66 306C86 296 102 314 92 336C72 344 56 326 66 306Z" fill="#facc15"/>
-    <path d="M1812 544C1832 534 1848 552 1838 574C1818 582 1802 564 1812 544Z" fill="#ff8bd1"/>
-  </g>
-
-  <g fill="none" stroke-linecap="round" opacity="0.6">
-    <path d="M936 112L966 82L996 112" stroke="#ff4da6" stroke-width="4"/>
-    <path d="M1008 112L1038 82L1068 112" stroke="#7dd3fc" stroke-width="4"/>
-    <path d="M174 650L210 686L246 650" stroke="#ff4da6" stroke-width="4"/>
-    <path d="M1582 648L1618 684L1654 648" stroke="#facc15" stroke-width="4"/>
   </g>
 </svg>
