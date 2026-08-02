@@ -1,60 +1,63 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Khang Minh banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Khang Minh anime banner" />
 </div>
 
 <br />
 
+<div align="center">
+  <a href="https://github.com/wwenrr">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=FF4DA6&center=true&vCenter=true&width=940&lines=Backend+Engineer+%2F+Automation+Builder;OSS+Contributor+across+Rails%2C+Next.js%2C+NestJS;Anime+energy%2C+production-grade+systems" alt="Typing intro" />
+  </a>
+</div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Role-Backend%20Engineer-3178C6?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Reliability-0ea5e9?style=flat-square" />
-<img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Ruby%20%7C%20C%23-CC342D?style=flat-square" />
-<img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20Redis-4169E1?style=flat-square" />
-
+  <a href="https://github.com/wwenrr?tab=followers">
+    <img src="https://img.shields.io/github/followers/wwenrr?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=111827" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwwenrr&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=ff4da6&labelColor=111827&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh-facc15?style=for-the-badge&labelColor=111827" alt="Ho Chi Minh" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20Automation-22c55e?style=for-the-badge&labelColor=111827" alt="Backend and automation" />
 </div>
 
 <br />
 
 ---
 
-<h2 align="center">Engineering Board</h2>
+<h2 align="center">Mission Board</h2>
 
-<br />
-
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-<h4>What I Build</h4>
+### Who I Am
 
-- Business-critical backend features and APIs
-- Automation pipelines for ops and data quality
-- CI/CD and release tooling for safer deployments
-- Internal developer tooling and workflow systems
-- Practical UI and theme updates with measurable impact
+I am **MK / Khang Minh**, a backend-focused builder based in Ho Chi Minh.
 
-</td>
-<td valign="top" width="33%">
+I like systems that are calm under pressure: APIs, automation, internal tools, CI/CD, data workflows, and the small fixes that make daily engineering less painful.
 
-<h4>How I Work</h4>
-
-- Clear ownership, observable and verifiable outputs
-- Small, testable, easy-to-review changes
-- Bias toward reliability and correctness over novelty
-- Optimize for team velocity and long-term maintainability
-- Document decisions, not just code
+```txt
+profile    backend engineer, automation builder, OSS contributor
+style      practical, readable, production-first
+timezone   UTC+7
+handle     wwenrr
+```
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-<h4>Current Focus</h4>
+### Current Quest
 
-- Production-grade internal tooling
-- Workflow automation with n8n and custom scripts
-- OSS contributions to high-impact projects
-- Rails and TypeScript backend systems
-- Improving deployment and observability pipelines
+- Building agent and automation tooling with practical production paths
+- Improving backend reliability across TypeScript, Ruby, Go, Python, and C#
+- Contributing small, reviewable patches to established OSS projects
+- Turning repeated manual workflows into observable, maintainable systems
+
+### Operating Style
+
+- Ship narrow changes with clear evidence
+- Prefer boring reliability over clever surprises
+- Keep code reviewable, testable, and easy to roll back
+- Document decisions where future maintainers will look first
 
 </td>
 </tr>
@@ -64,9 +67,22 @@
 
 ---
 
-<h2 align="center">Open Source Contributions</h2>
+<h2 align="center">Open Source Contribution Log</h2>
 
-<br />
+<p align="center">
+  Merged patches across ecosystem projects including Rails, Next.js, NestJS, Sinatra, Capybara, Lark CLI, and developer tooling.
+</p>
+
+<div align="center">
+
+| Area | Repositories | Contribution Shape |
+|---|---|---|
+| Ruby / Web | Rails, Sinatra, Capybara | docs fixes, assertion behavior, framework polish |
+| TypeScript / Node | Next.js, NestJS, Nest CLI, Lark CLI | docs clarity, peer dependency fixes, CLI validation |
+| Agent Tooling | oh-my-codex, oh-my-claudecode, codex-keyring | workflow correctness, tests, error classification |
+| Data / Infra | goclaw | SQL placeholder correctness and reliability fixes |
+
+</div>
 
 <!-- OPEN_SOURCE_OPEN_PRS:START -->
 <div align="center">
@@ -104,9 +120,30 @@
 </div>
 <!-- OPEN_SOURCE_OPEN_PRS:END -->
 
-<h2 align="center">Tech Stack</h2>
+<br />
+
+---
+
+<h2 align="center">Featured Builds</h2>
+
+<div align="center">
+
+| Project | Signal | Stack / Focus |
+|---|---|---|
+| [hermes-agent](https://github.com/wwenrr/hermes-agent) | Agent tooling that grows with the user workflow | agents, automation, product systems |
+| [codex-keyring](https://github.com/wwenrr/codex-keyring) | Native multi-account manager for Codex workflows | CLI, account switching, failover |
+| [paperclip](https://github.com/wwenrr/paperclip) | Open-source orchestration experiments | automation, agent operations |
+| [openclaw-nerve](https://github.com/wwenrr/openclaw-nerve) | Real-time cockpit for agent workspaces | voice UI, kanban, files, charts |
+| [cse-mark](https://github.com/wwenrr/cse-mark) | API server for student mark lookup | Go, backend API |
+| [StudyHubBKU](https://github.com/wwenrr/StudyHubBKU) | Study workflow tooling | TypeScript, product UI |
+
+</div>
 
 <br />
+
+---
+
+<h2 align="center">Tech Arsenal</h2>
 
 <div align="center">
 
@@ -115,41 +152,34 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 
 <br /><br />
 
-<h4>Frameworks & Runtime</h4>
+<h4>Backend & Runtime</h4>
 
 <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
 <br /><br />
 
-<h4>Database & Messaging</h4>
+<h4>Data, Infra & Automation</h4>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-
-<br /><br />
-
-<h4>DevOps & Tooling</h4>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
@@ -158,31 +188,23 @@
 
 ---
 
-<h2 align="center">Analytics</h2>
-
-<br />
+<h2 align="center">Stats & Motion</h2>
 
 <div align="center">
-  <h4>Overview</h4>
-  <p><sub>Stats across all public and private repositories, including all commits</sub></p>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwenrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwenrr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwenrr&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <h4>Streak</h4>
-  <p><sub>Consecutive contribution days — measures consistency and discipline</sub></p>
-  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=wwenrr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <h4>Activity</h4>
-  <p><sub>Commit frequency over the past 12 months</sub></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwenrr&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
 </div>
 
 <br />
@@ -191,15 +213,13 @@
 
 <h2 align="center">Contact</h2>
 
-<br />
-
 <div align="center">
 
-| | |
+| Channel | Link |
 |:---:|:---|
-| <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | [khang.tranminh047@gmail.com](mailto:khang.tranminh047@gmail.com) |
-| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> | [khang-minh](https://www.linkedin.com/in/khang-minh-082b79317/) |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | [wwenrr](https://github.com/wwenrr) |
+| <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /> | [khang.tranminh047@gmail.com](mailto:khang.tranminh047@gmail.com) |
+| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> | [khang-minh](https://www.linkedin.com/in/khang-minh-082b79317/) |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> | [wwenrr](https://github.com/wwenrr) |
 
 </div>
 
